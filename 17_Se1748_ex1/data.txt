@@ -1,0 +1,4 @@
+E003,Long Nguyen,200
+E001,Messi J,1000
+E006,Donald Trump,5000
+B007,Jame Bond,3
